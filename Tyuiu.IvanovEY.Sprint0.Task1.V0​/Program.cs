@@ -15,6 +15,7 @@ namespace Tyuiu.IvanovEY.Sprint0.Task1.V0​
             int age = 17;
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет!");
             Console.ReadKey();
+
         }
     }
 }
